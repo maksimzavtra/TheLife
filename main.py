@@ -1,4 +1,3 @@
-from config import *
 from board_class import *
 
 
